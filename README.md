@@ -1,5 +1,5 @@
 # PROJETO DOCKER E WORDPRESS NA AWS
-## CONFIGURAÇÕES AWS
+
 ### CRIAR VPC E SUBNETS
 - Na aba VPC, vá até Suas VPCs > Criar VPC;
 - Coloque em VPC e muito mais;
