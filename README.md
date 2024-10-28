@@ -1,12 +1,12 @@
 # PROJETO DOCKER E WORDPRESS NA AWS
 
-### CRIAR VPC E SUBNETS
+### CRIANDO VPC E SUBNETS
 - Na aba VPC, vá até Suas VPCs > Criar VPC;
 - Coloque em VPC e muito mais;
 - Dê um nome para a sua VPC;
 - Coloque o IPV4 CIDR da sua preferência;
 - Crie com 2 Az, com 2 públicas e 2 privadas;
-### GRUPOS DE SEGURANÇA
+### CRIANDO OS GRUPOS DE SEGURANÇA
 1. SG - EC2
 - Regras de entrada
    -  HTTP (80) - Qualquer endereço IPV4
